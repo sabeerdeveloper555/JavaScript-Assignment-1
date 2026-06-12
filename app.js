@@ -4,7 +4,7 @@
 // Percentage ka formula hai:
 // (First Number / Second Number) * 100
 
-alert("Welcome to JS \nLet's add 2 numbers");
+alert("Welcome to JS \nLet's add and subtract 2 numbers and find percentage");
 
 // User se pehla number lena
 let firstNumber = Number(prompt("Enter first number: "));
